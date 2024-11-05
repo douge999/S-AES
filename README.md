@@ -5,7 +5,7 @@
 对输入数据为 四为16进制的数据和4为16进制（16为二进制）的秘钥，选择加密（e）或解密（d）模式进行操作。如下：  
 ![image](https://github.com/douge999/S-AES/blob/main/image/saes.png)  
 ## 2、交叉测试 
-对输入为56A8（01010110101001000）的数据和89CA（1000100111001010）的秘钥进行加密，我的结果为:  
+对输入为56A8（0101011010101000）的数据和89CA（1000100111001010）的秘钥进行加密，我的结果为:  
 ![image](https://github.com/douge999/S-AES/blob/main/image/jiacha1.png)  
 另个小组结果为  
 ![image]()  
