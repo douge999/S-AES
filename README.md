@@ -8,7 +8,7 @@
 对输入为56A8（0101011010101000）的数据和89CA（1000100111001010）的秘钥进行加密，我的结果为:  
 ![image](https://github.com/douge999/S-AES/blob/main/image/jiacha1.png)  
 另个小组结果为  
-![image]()  
+![image](https://github.com/douge999/S-AES/blob/main/image/jiaocha2.png)  
 结果一样，交叉测试成功。
 ## 3、扩展功能 
 #### 考虑到向实用性扩展，加密算法的数据输入可以是ASII编码字符串(分组为2 Bytes)，对应地输出也可以是ACII字符串(很可能是乱码)。 得到结果如下：  
